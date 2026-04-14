@@ -16,7 +16,16 @@
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sri-aakash06
 - 🌍 Portfolio: https://sri-aakash-house-portfolio-master.vercel.app/
-- 🚀 Live Project: https://zara-ai-sri.vercel.app
+🚀 Live Projects
+
+🔹 AI Chatbot (Zara AI)
+An intelligent AI-powered chatbot designed to interact with users, answer queries, and provide real-time responses.
+🌐 https://zara-ai-sri.vercel.app
+
+🔹 Habit Tracker Application
+A productivity web application that helps users track daily habits, monitor consistency, and improve routines.
+🌐 https://habittracker-35699.web.app/
+
 
 ---
 
