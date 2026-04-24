@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Sri Aakash
 
+
 🚀 SIH 2024 Finalist | AI Full Stack Developer | UI/UX Designer  | APP Developer
 
 ---
@@ -43,6 +44,7 @@ A productivity web application that helps users track daily habits, monitor cons
 | 📱 App Dev | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40"/> |
 | 🤖 AI Focus | <img src="https://skillicons.dev/icons?i=python" height="40"/> |
 ---
+
 
 ## 🚀 Projects
 
