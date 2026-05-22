@@ -38,6 +38,7 @@ An interactive developer world portfolio showcasing projects, skills, creativity
 
 ## 🛠️ The Arsenal
 
+
 | 💻 Category | 🚀 Stack |
 |------------|---------|
 | 👨‍💻 Languages | <img src="https://skillicons.dev/icons?i=java,python,js,c" height="40"/> |
@@ -82,6 +83,7 @@ An interactive developer world portfolio showcasing projects, skills, creativity
 - System Design Basics
 
 ---
+
 
 ## ⚡ Fun Fact
 I turn ideas into real-world applications 🚀
