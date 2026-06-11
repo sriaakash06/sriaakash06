@@ -36,8 +36,6 @@ An interactive developer world portfolio showcasing projects, skills, creativity
 
 ## 🛠️ Tech Stack
 
-## 🛠️ The Arsenal
-
 
 | 💻 Category | 🚀 Stack |
 |------------|---------|
