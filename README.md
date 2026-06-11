@@ -6,7 +6,7 @@
 ---
 
 ## 💫 About Me
-- 🎓 B.Tech Information Technology (3rd Year)
+- 🎓 B.Tech Information Technology (final Year)
 - 💻 Passionate about building real-world applications using AI
 - ⚡ Love creating clean UI/UX experiences
 - 🧠 Currently learning Full Stack Development & DSA
