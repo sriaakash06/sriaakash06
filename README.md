@@ -40,7 +40,7 @@ An interactive developer world portfolio showcasing projects, skills, creativity
 | 💻 Category | 🚀 Stack |
 |------------|---------|
 | 👨‍💻 Languages | <img src="https://skillicons.dev/icons?i=java,python,js,c" height="40"/> |
-| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=html,css,react" height="40"/> |
+| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> |
 | ⚙️ Backend | <img src="https://skillicons.dev/icons?i=flask,nodejs" height="40"/> |
 | 🗄️ Database | <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/> |
 | 📱 App Dev | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40"/> |
