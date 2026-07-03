@@ -5,7 +5,7 @@
 
 ---
 
-## 💫 About Me
+## 💬 About Me
 - 🎓 B.Tech Information Technology (final Year)
 - 💻 Passionate about building real-world applications using AI
 - ⚡ Love creating clean UI/UX experiences
