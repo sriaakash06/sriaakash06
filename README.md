@@ -12,7 +12,6 @@
 - 🧠 Currently learning Full Stack Development & DSA
 - 🎯 Goal: Become a top AI Full Stack Developer
 
-
 ---
 
 ## 🌐 Connect With Me
