@@ -19,7 +19,6 @@
   
 🚀 Live Projects
 
-
 🔹 AI Chatbot (Zara AI)
 An intelligent AI-powered chatbot designed to interact with users, answer queries, and provide real-time responses.  
 🌐 https://zara-ai-sri.vercel.app
