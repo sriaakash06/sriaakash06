@@ -12,7 +12,6 @@
 - 🎯 Goal: Become a top AI Full Stack Developer
 
 ---
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/sri-aakash06
 - 🌍 Portfolio: https://sri-aakash-house-portfolio-master.vercel.app/
