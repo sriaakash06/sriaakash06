@@ -8,7 +8,7 @@
 <tr>
 <td width="42%" valign="top">
 
-<img src="./assets/avatar-dots.png" width="100%" />
+<img src="./avatar-dots.png" width="100%" />
 
 </td>
 <td width="58%" valign="top">
