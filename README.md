@@ -1,59 +1,43 @@
-<h1 align="center">Hi there, I'm Sri Aakash 👋</h1>
+<div align="center">
 
-<h3 align="center">AI Full Stack Developer | UI/UX Enthusiast | SIH 2024 Finalist</h3>
+# `sriaakash06 / README.md`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D32F2F&center=true&vCenter=true&width=500&lines=Final-Year+B.Tech+IT+Student;AI+%2B+Full+Stack+Developer;UI%2FUX+Focused+Engineer;SIH+2024+Finalist" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriaakash06&label=Profile%20Views&color=d32f2f&style=flat" alt="profile views" />
-  <a href="https://github.com/sriaakash06?tab=followers"><img src="https://img.shields.io/github/followers/sriaakash06?label=Followers&style=flat&color=d32f2f" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 Final-year **B.Tech Information Technology** student
-- 🤖 Identify as an **AI Full Stack Developer** with strong **UI/UX design** skills
-- 🏆 **Smart India Hackathon (SIH) 2024** Finalist
-- 💼 Completed multiple **internships** building production-grade apps
-- 🌱 Currently building full-stack products end-to-end — from Figma designs to deployed backends
-- ⚡ Fun fact: I turn ideas into interfaces before they even finish being explained
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,flask,spring,mongodb,mysql,firebase,flutter,dart,figma,git,github,vscode&theme=dark" />
-</p>
-
-<table align="center">
+<table>
 <tr>
-<td valign="top" width="33%">
+<td width="42%" valign="top">
 
-**Languages**
-- Java
-- Python
-- Dart
+<img src="./assets/avatar-dots.png" width="100%" />
 
 </td>
-<td valign="top" width="33%">
+<td width="58%" valign="top">
 
-**Frontend & Design**
-- React
-- Flutter
-- Figma (UI/UX)
+```yaml
+sri@github ~ % ./profile.sh --live
 
-</td>
-<td valign="top" width="33%">
+SYSTEM.INFO                              ● LIVE
+Subject ............................ Sri Aakash
+Role ................... AI Full Stack Developer
+Origin .......................... Tamil Nadu, IN
+Education ........... B.Tech IT (Final Year)
+Status .......... Building + Learning + Shipping
+Toolchain .... VS Code, Git, Figma, Android Studio
 
-**Backend & Database**
-- Flask · Spring Boot
-- MongoDB · MySQL
-- Firebase
+Core.Lang ................... Java, Python, Dart
+Core.Frontend ..................... React, Flutter
+Core.Backend ................. Flask, Spring Boot
+Core.Database ................. MongoDB, MySQL
+Core.Infra .............. Firebase, Git, GitHub
+
+Contact
+Grid.Mail ........... sriaakash06.connect@gmail.com
+Grid.Portfolio ................... your-portfolio.dev
+Grid.LinkedIn ...................... /in/your-handle
+Grid.GitHub ............................ @sriaakash06
+
+» More about me & projects below in README ↓
+```
 
 </td>
 </tr>
@@ -61,28 +45,96 @@
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriaakash06&show_icons=true&theme=radical&hide_border=true&title_color=ff5252&icon_color=ff5252&text_color=ffffff&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriaakash06&theme=radical&hide_border=true&background=0d1117&ring=ff5252&fire=ff5252&currStreakLabel=ff5252" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sriaakash06&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d0d12&title_color=ff4646&icon_color=ff4646&text_color=e6e6e6" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriaakash06&theme=radical&hide_border=true&background=0d0d12&ring=ff4646&fire=ff4646&currStreakLabel=ff4646" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriaakash06&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff5252&text_color=ffffff" width="45%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriaakash06&layout=compact&theme=radical&hide_border=true&bg_color=0d0d12&title_color=ff4646&text_color=e6e6e6" height="165"/>
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sriaakash06"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- Add your LinkedIn / portfolio / email badges below -->
-  <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-</p>
+### Contribution Activity
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d32f2f&height=100&section=footer" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriaakash06&theme=react-dark&hide_border=true&bg_color=0d0d12&color=ff4646&line=ff4646&point=e6e6e6" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sriaakash06/sriaakash06/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sriaakash06/sriaakash06/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation — generated automatically by the workflow below" />
+</picture>
+
+</div>
+
+---
+
+### `PROJECTS.LIST` — `./projects.sh`
+
+<table>
+<tr>
+<td width="50%">
+
+**🌐 GitVille**
+3D/canvas world that visualizes GitHub profiles as an interactive map
+`React` `Three.js`
+
+</td>
+<td width="50%">
+
+**🎓 Levlox Student Portal**
+Full-stack Admin + Student panels for a student management system
+`React` `Python` `MongoDB`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏆 ARVORE (Krish Graphics)**
+Premium admin panel for a medals & trophies business
+`React` `UI/UX`
+
+</td>
+<td width="50%">
+
+**🍽️ Vasantham Catering**
+Flutter web app for multi-branch catering inventory management
+`Flutter` `Dart`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🚗 CarDekho Scraper**
+Multi-source car data scraper — specs, used listings, performance data
+`Python`
+
+</td>
+<td width="50%">
+
+**📅 Event Registration System**
+Full-stack event registration app built for CodeAlpha
+`React` `Flask`
+
+</td>
+</tr>
+</table>
+
+> Repo names above are placeholders — swap each project title's text link to point at your actual `github.com/sriaakash06/<repo>` once you confirm the slugs.
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriaakash06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D32F2F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.dev)
+[![Email](https://img.shields.io/badge/Email-D32F2F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriaakash06.connect@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4646&height=90&section=footer"/>
+
+</div>
