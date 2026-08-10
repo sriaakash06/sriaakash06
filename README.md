@@ -1,8 +1,89 @@
-![Sri Aakash](https://raw.githubusercontent.com/sriaakash06/sriaakash06/main/system-banner.png)
+# 👋 Hi, I'm Sri Aakash 
 
-![Sri's streak](https://streak-stats.demolab.com/?user=sriaakash06&hide_border=true&background=0D0D12&stroke=FF4646&ring=FF4646&fire=FF4646&currStreakLabel=FF4646&sideLabels=FFFFFF&dates=94A3B8&titleColor=FF4646)
-![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriaakash06&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=FF4646&icon_color=FF4646&text_color=E6E6E6&bg_color=0D0D12)![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriaakash06&layout=compact&hide_border=true&title_color=FF4646&text_color=E6E6E6&bg_color=0D0D12)
+🚀 SIH 2024 Finalist | AI Full Stack Developer | UI/UX Designer  | APP Developer
 
-![Snake eating my contributions](https://raw.githubusercontent.com/sriaakash06/sriaakash06/output/github-contribution-grid-snake.svg)
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iIzBBMTAxRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjlIMy41NTV2MTEuNDUyeiIvPjwvc3ZnPg==)](https://linkedin.com/in/your-handle) [![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriaakash06) [![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=FF4646)](https://your-portfolio.dev) [![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=FF4646)](mailto:sriaakash06.connect@gmail.com)
+## 💬 About Me
+- 🎓 B.Tech Information Technology (final Year)
+- 💻 Passionate about building real-world applications using AI
+- ⚡ Love creating clean UI/UX experiences
+- 🧠 Currently learning Full Stack Development & DSA
+- 🎯 Goal: Become a top AI Full Stack Developer
+
+---
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sri-aakash06
+- 🌍 Portfolio: https://sri-aakash-house-portfolio-master.vercel.app/
+  
+🚀 Live Projects
+
+🔹 AI Chatbot (Zara AI)
+An intelligent AI-powered chatbot designed to interact with users, answer queries, and provide real-time responses.  
+🌐 https://zara-ai-sri.vercel.app
+
+🔹 Habit Tracker Application
+A productivity web application that helps users track daily habits, monitor consistency, and improve routines.  
+🌐 https://habittracker-35699.web.app/
+
+ 🌍 GitHub World  
+An interactive developer world portfolio showcasing projects, skills, creativity, and modern UI experiences.  
+🌐 https://github-myworld.vercel.app/
+
+---
+
+## 🛠️ Tech Stack
+
+
+| 💻 Category | 🚀 Stack |
+|------------|---------|
+| 👨‍💻 Languages | <img src="https://skillicons.dev/icons?i=java,python,c" height="40"/> |
+| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,react" height="40"/> |
+| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=flask,spring" height="40"/> |
+| 🗄️ Database | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="40"/> |
+| 📱 App Dev | <img src="https://skillicons.dev/icons?i=flutter,dart" height="40"/> |
+| 🤖 AI Focus | <img src="https://skillicons.dev/icons?i=python" height="40"/> |
+---
+
+
+## 🚀 Projects
+
+### 🤖 Zara AI Chatbot
+- AI-powered chatbot using React + Flask + MongoDB
+- 🔗 Live: https://zara-ai-sri.vercel.app
+- 🔗 GitHub: https://github.com/sriaakash06/zara-Ai
+
+### 💸 Expense Tracker App
+- Built using Flutter & SQLite
+- Features charts, tracking & analytics
+
+---
+
+## 📊 GitHub Stats
+
+![Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriaakash06&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriaakash06&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sriaakash06&theme=tokyonight)
+
+---
+
+## 🧠 Currently Learning
+- Data Structures & Algorithms
+- Advanced React
+- System Design Basics
+
+---
+
+
+## ⚡ Fun Fact
+I turn ideas into real-world applications 🚀
+
+---
+
+⭐ From [Sri Aakash](https://github.com/sriaakash06)
