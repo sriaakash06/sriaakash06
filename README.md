@@ -4,7 +4,7 @@
 
 My GitHub World 🌍
 
-🌐 https://github-myworld.vercel.app/sriaakash06
+🌐 https://github-myworld.vercel.app/sriaakash06/
 ---
 
 ## 💬 About Me
